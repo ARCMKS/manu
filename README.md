@@ -1,4 +1,3 @@
-```markdown
 # Prism
 
 Prism is a small statically-typed programming language with reference-counted
@@ -43,7 +42,6 @@ Requirements:
 git clone https://github.com/ARCMKS/manu.git
 cd manu
 make
-```
 
 This produces a single `manu` binary in the repository root.
 
