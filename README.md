@@ -42,6 +42,7 @@ Requirements:
 git clone https://github.com/ARCMKS/manu.git
 cd manu
 make
+```
 
 This produces a single `manu` binary in the repository root.
 
@@ -117,6 +118,3 @@ This project is currently a single-author research and learning effort. The
 roadmap and known limitations live in `docs/handbook/`. Expect rough edges;
 issues and design discussion are welcome, but the API and language surface
 should be treated as in flux until the project reaches a stable milestone.
-
-There is no license file yet; add one before distributing the project or
-depending on it.
